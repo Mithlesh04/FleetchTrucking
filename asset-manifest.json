@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FleetchTrucking/static/css/main.b336e034.chunk.css",
-    "main.js": "/FleetchTrucking/static/js/main.af3017de.chunk.js",
-    "main.js.map": "/FleetchTrucking/static/js/main.af3017de.chunk.js.map",
+    "main.js": "/FleetchTrucking/static/js/main.55795b72.chunk.js",
+    "main.js.map": "/FleetchTrucking/static/js/main.55795b72.chunk.js.map",
     "runtime-main.js": "/FleetchTrucking/static/js/runtime-main.0b953d03.js",
     "runtime-main.js.map": "/FleetchTrucking/static/js/runtime-main.0b953d03.js.map",
     "static/js/2.1e25256e.chunk.js": "/FleetchTrucking/static/js/2.1e25256e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0b953d03.js",
     "static/js/2.1e25256e.chunk.js",
     "static/css/main.b336e034.chunk.css",
-    "static/js/main.af3017de.chunk.js"
+    "static/js/main.55795b72.chunk.js"
   ]
 }
