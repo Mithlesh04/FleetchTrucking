@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FleetchTrucking/static/css/main.b336e034.chunk.css",
+    "main.js": "/FleetchTrucking/static/js/main.af3017de.chunk.js",
+    "main.js.map": "/FleetchTrucking/static/js/main.af3017de.chunk.js.map",
+    "runtime-main.js": "/FleetchTrucking/static/js/runtime-main.0b953d03.js",
+    "runtime-main.js.map": "/FleetchTrucking/static/js/runtime-main.0b953d03.js.map",
+    "static/js/2.1e25256e.chunk.js": "/FleetchTrucking/static/js/2.1e25256e.chunk.js",
+    "static/js/2.1e25256e.chunk.js.map": "/FleetchTrucking/static/js/2.1e25256e.chunk.js.map",
+    "static/js/3.60da6449.chunk.js": "/FleetchTrucking/static/js/3.60da6449.chunk.js",
+    "static/js/3.60da6449.chunk.js.map": "/FleetchTrucking/static/js/3.60da6449.chunk.js.map",
+    "index.html": "/FleetchTrucking/index.html",
+    "static/css/main.b336e034.chunk.css.map": "/FleetchTrucking/static/css/main.b336e034.chunk.css.map",
+    "static/js/2.1e25256e.chunk.js.LICENSE.txt": "/FleetchTrucking/static/js/2.1e25256e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b953d03.js",
+    "static/js/2.1e25256e.chunk.js",
+    "static/css/main.b336e034.chunk.css",
+    "static/js/main.af3017de.chunk.js"
+  ]
+}
