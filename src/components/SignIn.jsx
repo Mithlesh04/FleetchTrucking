@@ -48,7 +48,7 @@ export function SignIn(props) {
   })
 
   
-  const FormHandle = ({name,email,password,isSigninform})=>{
+  const FormHandle = ({name,email,password})=>{
     var fireCheck
      if(isSigninform){
          fireCheck = fire.auth().signInWithEmailAndPassword(email, password)
